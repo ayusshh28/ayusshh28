@@ -31,7 +31,7 @@ Analyzed a month’s worth of ride data to uncover trends in pricing, demand, an
 
 ---
 
-## 📚 Dynamic Progress
+## 📈 What I’m Working On
 
 ✅ Currently learning **Advanced SQL optimization** for faster and more efficient data handling.  
 ✅ Exploring **Deep Learning techniques** with TensorFlow and PyTorch.  
