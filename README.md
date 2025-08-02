@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Katiyar
 
-<!--
-**ayusshh28/ayusshh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA '24 | 💻 Data Analyst | 🤖 Aspiring Data Scientist  
+📊 Python • Pandas • Power BI • Excel • SQL  
+🧠 Exploring ML, DL & NLP | Building data-powered projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **LensX** – NLP-based app (sentiment, spam, news classification, etc.)
+- **IPL Dashboard** – Power BI dashboard for teams, players, and match insights
+- **Ola Ride Analysis** – One-month trip data analyzed in Power BI
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, scikit-learn, NLTK
+- **Tools**: Power BI, Excel, Git, GitHub
+
+---
+
+### 📫 Let's Connect
+- [LinkedIn](www.linkedin.com/in/ayushh-katiyar)
+- 📧 Email: ayusshh28@gmail.com
+
+> _"Data is the new oil — and I’m learning to refine it."_
+
