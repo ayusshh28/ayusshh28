@@ -20,6 +20,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+
+----
+
 ### 📫 Let's Connect
 - [LinkedIn](www.linkedin.com/in/ayushh-katiyar)
 - 📧 Email: ayusshh28@gmail.com
