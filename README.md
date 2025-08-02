@@ -40,13 +40,6 @@ Analyzed a month’s worth of ride data to uncover trends in pricing, demand, an
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayussh28&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayussh28&layout=compact&theme=radical)
-
----
-
 ## 💡 My Mission
 
 I aim to bridge the gap between data and decision-making by creating intuitive dashboards and intelligent models that empower individuals and organizations.
