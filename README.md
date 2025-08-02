@@ -22,9 +22,9 @@
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?ayusshh28=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ayusshh28=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
 ----
 
